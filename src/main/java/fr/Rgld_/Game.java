@@ -1,3 +1,10 @@
+/**
+ *
+ * Javadoc hébergé: https://jd.rgld.fr/ufr-st/S4/POA/TP5/
+ * Repo Github: https://github.com/R-Gld/POA-TP5
+ *
+ */
+
 package fr.Rgld_;
 
 import fr.Rgld_.Strategies.Strategy1;
